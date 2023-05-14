@@ -1,4 +1,4 @@
-# Instructions for running (also included in the GitHub repo)
+# Instructions for running
 1. Extract the zip file (or clone the GitHub repo)
 2. Switch to the 'front-end' directory and install dependencies using 'npm install' command.
 3. Run the frontend with 'npm start' command.
